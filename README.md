@@ -17,7 +17,7 @@ In this course, you will learn the foundations of deep learning. When you finish
 
 ## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow. 
+This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow.
 
 After 3 weeks, you will:
 
@@ -53,10 +53,10 @@ You will:
 
 ## Sequence Models
 
-This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others. 
+This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others.
 
 You will:
 
 - Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
-- Be able to apply sequence models to natural language problems, including text synthesis. 
+- Be able to apply sequence models to natural language problems, including text synthesis.
 - Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
