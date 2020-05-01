@@ -60,3 +60,10 @@ You will:
 - Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
 - Be able to apply sequence models to natural language problems, including text synthesis.
 - Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
+
+## Conclusion
+
+I started the course on 20 April 2020 and finished it on 1 May 2020.
+
+Here is the certificate:
+![Specoalization certificate](Certificate.jpg)
